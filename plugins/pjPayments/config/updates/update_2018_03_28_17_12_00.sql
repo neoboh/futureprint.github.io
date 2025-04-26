@@ -1,6 +1,0 @@
-
-START TRANSACTION;
-
-ALTER TABLE `plugin_payment_options` CHANGE `tz` `tz` VARCHAR(255) DEFAULT NULL;
-
-COMMIT;

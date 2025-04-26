@@ -1,1 +1,0 @@
-<?php include_once dirname(__FILE__) . '/elements/edit-extra.php';?>

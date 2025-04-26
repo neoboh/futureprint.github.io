@@ -51,3 +51,15 @@ if (isset($_GET['controller']))
 	$pjObserver->init();
 }
 ?>
+
+<!-- Then you can write your HTML content below -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>My Website</title>
+</head>
+<body>
+	<h1>Welcome to FuturePrint!</h1>
+</body>
+</html>
